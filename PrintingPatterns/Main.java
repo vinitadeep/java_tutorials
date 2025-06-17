@@ -7,5 +7,10 @@ public class Main {
         PatternPrinter.printRhombus();
         PatternPrinter.printParallelogram();
         PatternPrinter.printMirroredRhombus();
+        PatternPrinter.printTriangleStar();
+        PatternPrinter.printMirrorTriangleStar();
+        PatternPrinter.printHalfDiamond();
+        PatternPrinter.printPyramid();
+        PatternPrinter.printHollowPyramid();
     }
 }
