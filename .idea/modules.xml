@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BitManipulation/BitManipulation.iml" filepath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_tutorials.iml" filepath="$PROJECT_DIR$/.idea/java_tutorials.iml" />
     </modules>
   </component>
