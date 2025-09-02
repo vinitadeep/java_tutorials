@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BitManipulation/BitManipulation.iml" filepath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-Array-Practice-Problems/DSA-Array-Practice-Problems.iml" filepath="$PROJECT_DIR$/DSA-Array-Practice-Problems/DSA-Array-Practice-Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_tutorials.iml" filepath="$PROJECT_DIR$/.idea/java_tutorials.iml" />
     </modules>
   </component>
